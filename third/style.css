@@ -1,0 +1,62 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+
+}
+
+header {
+  width: 100%;
+  height: 16%;
+  background-color: #eee;
+}
+
+.first {
+  width: 100%;
+  height: 20%;
+  background-color: white;
+  display: table;
+}
+.first p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+
+.second {
+  width: 100%;
+  height: 16%;
+  background-color: blue;
+}
+
+.third {
+  width: 100%;
+  height: 16%;
+  background-color: yellow;
+}
+
+.fourth{
+  width: 100%;
+  height: 16%;
+  background-color: orange;
+}
+
+.fifth {
+  width: 100%;
+  height: 16%;
+  background-color: red;
+}
+
+.left-corner {
+  float: left;
+  Margin-left:15px;
+  margin-top: 15px;
+  height: 100px;
+  width: 100px;
+background-color: blue;
+
+
+
+}

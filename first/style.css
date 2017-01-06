@@ -1,0 +1,31 @@
+html, body {
+  background-color: grey;
+  height:100%;
+  width: 100%;
+  margin: 0;
+}
+
+header {
+  height: 40px;
+  width: auto;
+  background-color: #eee;
+
+}
+
+.middle {
+  height: 100%;
+  width: 1000px;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  position:relative;
+}
+
+.bottom {
+  height: 60px;
+  width: 100%;
+  position:absolute;
+  bottom:0;
+  background-color: black;
+
+}
